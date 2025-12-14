@@ -36,4 +36,4 @@ check availability and book turf slots online easily.
 - Mobile Responsive UI
 
 ## Author
-Jay Raj
+Jayraj
